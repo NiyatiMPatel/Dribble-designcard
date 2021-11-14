@@ -70,7 +70,6 @@ p {
   flex-direction: row;
   justify-content: space-evenly;
 }
-
 .footer {
   display: flex;
   flex-direction: row;
@@ -81,7 +80,6 @@ p {
 .price {
   margin: 14px 0 0 5px;
 }
-
 .add-to-cart {
   background: yellow;
   border-bottom-right-radius: 25px;
